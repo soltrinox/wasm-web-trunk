@@ -2,3 +2,4 @@ target
 dist
 site/public/*
 .vscode
+wasm-web-trunk.code-workspace
